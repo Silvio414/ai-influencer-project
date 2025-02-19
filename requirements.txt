@@ -2,3 +2,6 @@
 pandas
 opencv-python
 torch
+umap
+opencv-python
+torch
